@@ -2,7 +2,9 @@
 
 # Network Intrusion Detection 
 
-A comprehensive machine learning approach to detect network intrusions using various classification algorithms. This project achieves up to **99.6% accuracy** in identifying malicious network activities.
+This project implements a robust machine learning system designed to detect malicious intrusions in network traffic. By analyzing the features of network connections, the system leverages various classification algorithms to accurately distinguish between normal, benign activity and potential cyber threats. The project follows a complete data science workflow, from data preprocessing and exploratory analysis to model comparison, hyperparameter optimization, and final evaluation, culminating in a highly effective model capable of identifying attacks with approximately 99% accuracy.
+
+
 
 ## 📊 Dataset
 
