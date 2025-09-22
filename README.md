@@ -1,6 +1,6 @@
-# network-intrusion-detection
 
-# Network Intrusion Detection System
+
+# Network Intrusion Detection 
 
 A comprehensive machine learning approach to detect network intrusions using various classification algorithms. This project achieves up to **99.6% accuracy** in identifying malicious network activities.
 
@@ -78,7 +78,7 @@ pip install pandas numpy scikit-learn xgboost lightgbm catboost matplotlib seabo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/network-intrusion-detection.git
+https://github.com/Pavani1210/network-intrusion-detection.git
 cd network-intrusion-detection
 ```
 
@@ -115,7 +115,7 @@ The models were evaluated using:
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@pavani1210]
+- GitHub: [@Pavani1210]
 - LinkedIn: [byreddy Reddy pavani]
 - Email: pavanibyreddy128@gmail.com
 
